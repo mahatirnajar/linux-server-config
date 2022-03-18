@@ -1,7 +1,8 @@
 # Konfigurasi Server Linux
 
-Catatan ini berisi langkah-langkah melakukan konfigurasi server berbasis linux
+Akses server melalui ssh kemudian lakukan update dan upgrade.&#x20;
 
+```
+apt-get update && apt-get upgrade
+```
 
-
-Semoga bermanfaat.
