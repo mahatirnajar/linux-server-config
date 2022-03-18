@@ -1,8 +1,7 @@
 # Konfigurasi Server Linux
 
-```
-sudo apt-get install virtualenv
-```
+Catatan ini berisi langkah-langkah melakukan konfigurasi server berbasis linux
 
 
 
+Semoga bermanfaat.
